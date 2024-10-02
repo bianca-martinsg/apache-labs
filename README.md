@@ -1,2 +1,2 @@
 apache-labs
-image: docker.io/rmerces/apache-labs
+image: docker.io/biancamargonc/apache-labs
